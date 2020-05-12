@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d2d2b66-0c5a-43fb-b2f6-43e05aa33d34" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/celery_demo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/celery_demo/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/celerybeat.pid" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +59,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="celery_demo" type="Python.DjangoServer" factoryName="Django server">
       <module name="celery_demo" />
@@ -91,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589263937150</updated>
-      <workItem from="1589263939222" duration="6889000" />
+      <workItem from="1589263939222" duration="7647000" />
     </task>
     <servers />
   </component>
@@ -103,6 +112,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="577" y="212" width="813" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589264354931" />
+    <state x="557" y="101" width="796" height="834" key="CommitChangelistDialog2" timestamp="1589271262982">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="557" y="101" width="796" height="834" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589271262982" />
     <state width="1872" height="359" key="GridCell.Tab.0.bottom" timestamp="1589269866605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -127,5 +140,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="456" y="154" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589269550111" />
+    <state x="555" y="255" width="800" height="527" key="Vcs.Push.Dialog.v2" timestamp="1589271575872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="555" y="255" width="800" height="527" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589271575872" />
+    <state x="635" y="308" width="640" height="420" key="git4idea.merge.GitPullDialog" timestamp="1589271581713">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="635" y="308" width="640" height="420" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589271581713" />
   </component>
 </project>

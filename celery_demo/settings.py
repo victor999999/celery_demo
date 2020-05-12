@@ -129,8 +129,8 @@ USE_TZ = False
 STATIC_URL = '/static/'
 
 
-CELERY_RESULT_BACKEND = 'django-db'
+CELERY_RESULT_BACKEND = 'django-db'  # 结果存储
 
-CELERY_BROKER_URL = 'redis://:123456@127.0.0.1:6379/8'
+CELERY_BROKER_URL = 'redis://:123456@127.0.0.1:6379/8'  # Broker配置，使用Redis作为消息中间件
 
-CELERY_RESULT_SERIALIZER = 'json'
+CELERY_RESULT_SERIALIZER = 'json'  # 结果序列化方案
